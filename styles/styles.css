@@ -1,0 +1,35 @@
+.col {
+  outline: 3px solid;
+  background-color: #ff8080;
+}
+
+#date {
+  font-weight: bold;
+}
+
+div.col {
+  padding-block: 0.5%;
+}
+
+.card-body {
+  outline: auto;
+}
+
+div.card {
+  margin-bottom: 2rem;
+}
+
+.container {
+  margin-top: 5rem;
+}
+
+.full-width {
+}
+
+body {
+  background-color: #fddb27ff;
+}
+
+.row {
+  background-color: #202125;
+}
